@@ -50,7 +50,7 @@ function getDefaultConfig() {
     demonstrationClass,
     tracker,
     wopi,
-  };
+  } as any;
 }
 
 export default defaultConfig;
